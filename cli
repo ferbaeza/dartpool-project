@@ -1,0 +1,9 @@
+#!/usr/bin/env php
+<?php
+
+require __DIR__ . '/vendor/autoload.php';
+
+define('ROOT_FOLDER', (__DIR__));
+define('SRC_FOLDER', (__DIR__) . "/vendor/baezeta/php_miniframe/src");
+
+Src\Core\Cli\Cli::bootstrap(__DIR__)->run();

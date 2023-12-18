@@ -1,0 +1,4 @@
+[2023-12-04 11:10:06]-<info>Migration 2023_11_22_0000000_create_test_table.php eliminada correctamente</info>
+
+[2023-12-04 11:10:06]-<info>Migration 2023_11_23_0000002_create_usuarios_table.php eliminada correctamente</info>
+

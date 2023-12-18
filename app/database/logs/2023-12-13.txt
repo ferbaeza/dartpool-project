@@ -1,0 +1,20 @@
+[2023-12-13 19:11:33]-<comment>Nothing_to_migrate</comment>
+[2023-12-13 19:14:17]-<comment>Nothing_to_migrate</comment>
+[2023-12-13 19:18:06]-<info>Migration 2023_11_22_0000000_create_test_table.php eliminada correctamente</info>
+
+[2023-12-13 19:18:06]-<info>Migration 2023_11_23_0000002_create_usuarios_table.php eliminada correctamente</info>
+
+[2023-12-13 19:18:09]-<comment>Nothing_to_migrate</comment>
+[2023-12-13 19:18:15]-<comment>Nothing_to_migrate</comment>
+[2023-12-13 19:20:17]-<info>Migration 2023_11_22_0000000_create_test_table.php  creada correctamente</info>
+
+[2023-12-13 19:20:17]-<info>Migration 2023_11_23_0000002_create_usuarios_table.php  creada correctamente</info>
+
+[2023-12-13 19:20:30]-<info>Migration 2023_11_22_0000000_create_test_table.php eliminada correctamente</info>
+
+[2023-12-13 19:20:30]-<info>Migration 2023_11_23_0000002_create_usuarios_table.php eliminada correctamente</info>
+
+[2023-12-13 19:20:41]-<info>Migration 2023_11_22_0000000_create_test_table.php  creada correctamente</info>
+
+[2023-12-13 19:20:41]-<info>Migration 2023_11_23_0000002_create_usuarios_table.php  creada correctamente</info>
+

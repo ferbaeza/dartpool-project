@@ -1,0 +1,10 @@
+[2023-12-03 13:10:26]-<info>Migration 2023_11_22_0000000_create_test_table.php  creada correctamente</info>
+
+[2023-12-03 13:10:27]-<info>Migration 2023_11_23_0000000_create_usuarios_token_table.php  creada correctamente</info>
+
+[2023-12-03 13:10:27]-<info>Migration 2023_11_23_0000002_create_colores_table.php  creada correctamente</info>
+
+[2023-12-03 13:10:27]-<info>Migration 2023_11_23_0000002_create_usuarios_table.php  creada correctamente</info>
+
+[2023-12-03 14:02:57]-<info>Migracion create_test_names_table creada correctamente</info>
+[2023-12-03 14:06:52]-<info>Migracion create_test_names_table creada correctamente</info>
