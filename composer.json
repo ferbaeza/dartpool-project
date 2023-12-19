@@ -19,5 +19,9 @@
     "minimum-stability": "stable",
     "require": {
         "baezeta/php_miniframe": "^0.0.4"
-    }
+    },
+    "scripts": {
+        "post-install-cmd": [
+            "php -r \"copy('.env.example', '.env');\""
+        ]}
 }
