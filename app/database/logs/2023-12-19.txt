@@ -1,0 +1,5 @@
+[2023-12-19 07:46:32]-<info>Migracion create_cities_table creada correctamente</info>
+[2023-12-19 07:46:46]-<info>Migration 2023_12_18_0000000_create_new_test_table.php  creada correctamente</info>
+
+[2023-12-19 07:46:46]-<info>Migration 2023_12_19_0000000_create_cities_table.php  creada correctamente</info>
+

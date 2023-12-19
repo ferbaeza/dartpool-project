@@ -1,0 +1,23 @@
+{
+    "name": "baezeta/dartpool",
+    "description": "Small Framework Laravel inspired",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Public\\": "public/",
+            "Backend\\": "backend/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fer Baeza",
+            "email": "fbaezahurtado@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "baezeta/php_miniframe": "^0.0.2"
+    }
+}
