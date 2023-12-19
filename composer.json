@@ -18,6 +18,6 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "baezeta/php_miniframe": "^0.0.3"
+        "baezeta/php_miniframe": "^0.0.4"
     }
 }

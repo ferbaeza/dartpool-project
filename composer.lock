@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f927d36545af7febcbc2223ceee31b02",
+    "content-hash": "719aca5677f95a9bf74b58315e05eef6",
     "packages": [
         {
             "name": "baezeta/php_miniframe",
-            "version": "v0.0.3",
+            "version": "v0.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ferbaeza/php_miniFramework-core.git",
-                "reference": "665248b291aacd20f0158dc6a5ca8c2798699a2e"
+                "reference": "d911009ea16b38f568d7a7b25e23cccb36c9971b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ferbaeza/php_miniFramework-core/zipball/665248b291aacd20f0158dc6a5ca8c2798699a2e",
-                "reference": "665248b291aacd20f0158dc6a5ca8c2798699a2e",
+                "url": "https://api.github.com/repos/ferbaeza/php_miniFramework-core/zipball/d911009ea16b38f568d7a7b25e23cccb36c9971b",
+                "reference": "d911009ea16b38f568d7a7b25e23cccb36c9971b",
                 "shasum": ""
             },
             "require": {
@@ -58,9 +58,9 @@
             "description": "Inspired by Laravel mini Framework",
             "support": {
                 "issues": "https://github.com/ferbaeza/php_miniFramework-core/issues",
-                "source": "https://github.com/ferbaeza/php_miniFramework-core/tree/v0.0.3"
+                "source": "https://github.com/ferbaeza/php_miniFramework-core/tree/v0.0.4"
             },
-            "time": "2023-12-19T08:12:11+00:00"
+            "time": "2023-12-19T08:21:54+00:00"
         },
         {
             "name": "fakerphp/faker",
